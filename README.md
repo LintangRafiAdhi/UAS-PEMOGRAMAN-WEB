@@ -1,5 +1,10 @@
 # UAS-PEMOGRAMAN-WEB
 
+**NIM**: 312310697  
+**Nama**: Lintang Rafi Adhi  
+**Kelas**: TI.23.A6  
+**Matkul**: Pemrograman Web 1  
+
 <H1>index.php
 </H1>
 
@@ -82,3 +87,7 @@ header('Refresh: 5; URL=home.php');
 </body>
 </html>
 ```
+
+**TAMPILAN**
+
+![INDEX](tampilan index.png)
